@@ -2,7 +2,8 @@ Hash Security Project
 This project focuses on enhancing password security through custom hashing methods. It includes three primary functions: private_password, deviate, and pass_shuff. These functions aim to transform and obscure passwords to improve their security against attacks.
 
 Features
-  * Private Password Generation (private_password):
+
+Private Password Generation (private_password):
   * Combines elements from a username and a password to create a unique, private password.
   * Alternates characters from the username and password, ensuring a more complex result.
 
